@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👀 I'm learning C++ and JS with html
+- 👀 I'm learning C++ and Java
 <!--
 **Flartiks/flartiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
