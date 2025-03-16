@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align = 'center'>
+<a href="https://t.me/huge_code"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
 - 👀 I'm learning C++ and Java
 <!--
 **Flartiks/flartiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
