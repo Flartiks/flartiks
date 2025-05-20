@@ -6,6 +6,7 @@
 
 - 👀 I'm learning C++ and Java
 - 💻 I use ArchLinux and Win11
+- 👨‍💻 I'm writing mp3 player "echoa-play' for windows
 <!--
 **Flartiks/flartiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
