@@ -4,20 +4,9 @@
 <a href="https://github.com/Flartiks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </p>
 
-- 👀 I'm learning C++ and Java
-- 💻 I use ArchLinux and Win11
-- 👨‍💻 I'm writing audio player & OS kernel
-<!--
-**Flartiks/flartiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # My projects:
+- "echoa-MP" (echoa-play) - audio player for windows;
+- "FzKernel" - minimal 32-bit operating system kernel written in C and Assembly for the x86 architecture;
+- # Soon:
+- "FzKernel_efi" (name will be changed) - x86_64 efi operating system kernel written in C++;
+- "funEngine" - 3D game engine written on C++ with GLFW+GLAD;
